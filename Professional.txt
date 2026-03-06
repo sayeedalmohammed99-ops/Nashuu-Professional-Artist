@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Naushii | Luxury Bridal Makeup Artist</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Poppins:wght@300;400&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+<header>
+
+<h1>Naushii</h1>
+
+<nav>
+<a href="#home">Home</a>
+<a href="#services">Services</a>
+<a href="#gallery">Gallery</a>
+<a href="#about">About</a>
+<a href="#contact">Contact</a>
+</nav>
+
+</header>
+
+<section id="home" class="hero">
+
+<img src="images/poster.jpg">
+
+<div class="hero-content">
+
+<h2>Luxury Bridal Makeup</h2>
+
+<p>Enhancing your beauty for your special moments</p>
+
+<a href="https://wa.me/918688997531" class="btn">Book Appointment</a>
+
+</div>
+
+</section>
+
+
+<section id="services">
+
+<h2>Our Services</h2>
+
+<div class="services">
+
+<div class="card">
+<h3>Bridal Makeup</h3>
+<p>Flawless luxury bridal makeup for your wedding day.</p>
+</div>
+
+<div class="card">
+<h3>Engagement Makeup</h3>
+<p>Elegant engagement and reception looks.</p>
+</div>
+
+<div class="card">
+<h3>Sider Makeup</h3>
+<p>Perfect makeup for bridesmaids and family.</p>
+</div>
+
+<div class="card">
+<h3>Haldi Look</h3>
+<p>Natural glowing makeup for haldi ceremonies.</p>
+</div>
+
+<div class="card">
+<h3>Mehndi Designs</h3>
+<p>Beautiful professional henna designs.</p>
+</div>
+
+</div>
+
+</section>
+
+
+<section id="gallery">
+
+<h2>Bridal Gallery</h2>
+
+<div class="gallery">
+
+<img src="images/poster.jpg">
+<img src="images/poster.jpg">
+<img src="images/poster.jpg">
+<img src="images/poster.jpg">
+
+</div>
+
+</section>
+
+
+<section id="about">
+
+<h2>About Naushii</h2>
+
+<p>
+
+Naushii is a professional bridal makeup artist specializing in 
+luxury wedding looks, engagement makeup, haldi looks, and 
+beautiful mehndi designs.
+
+With a passion for beauty and perfection, Naushii helps brides 
+look their most stunning on their special day.
+
+</p>
+
+</section>
+
+
+<section id="contact">
+
+<h2>Book Your Appointment</h2>
+
+<p>📞 Phone: 8688997531</p>
+
+<p>
+
+Instagram:<br>
+
+<a href="https://instagram.com/makeup_bynaushii">
+@Makeup_bynaushii
+</a>
+
+<br>
+
+<a href="https://instagram.com/henna_bynaushii">
+@Henna_bynaushii
+</a>
+
+</p>
+
+<a href="https://wa.me/918688997531" class="btn">
+Book on WhatsApp
+</a>
+
+</section>
+
+
+<footer>
+
+<p>© 2026 Naushii Luxury Makeup Studio</p>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
